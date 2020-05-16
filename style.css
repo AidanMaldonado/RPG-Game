@@ -1,3 +1,7 @@
 *{ 
     font-family: 'DM Mono', monospace;
 }
+
+img {
+    width: 160px;
+}
